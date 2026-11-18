@@ -68,7 +68,8 @@ journeys and a sample ledger you can try without signing in.*
   of being deleted), key information, and a budget that compares planned costs
   with what the linked ledger has recorded. Download it as a paginated A4 PDF
   or a phone-width image, with costs, notes, photos and private details each
-  optional.
+  optional. A read-only sample plan is linked to the sample ledger (same trip,
+  same amounts), so planned and recorded spending can be compared right away.
 - **Trip expense splitting** — expenses in about 150 currencies settle into one
   currency using a frozen per-expense exchange-rate snapshot. Split equally, by
   exact amounts or by shares, edit entries, record repayments, keep one ledger
