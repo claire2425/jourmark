@@ -14,7 +14,7 @@ default, with optional private cloud sync.
 This repository is the public overview of the project. The source code is kept
 private; see [Source code](#source-code).
 
-> 簡介：Journey Log 是一個「資料先存在自己裝置」的旅程紀錄 App，可記錄飛行、火車／高鐵與郵輪，自動產生統計、互動路線地圖與可分享的足跡報告圖片；出發前可以用「旅程規劃」一天天安排行程卡片（時間、地點、照片或插圖、預訂狀態，可以直接拖曳調整順序和日期）、待辦清單和預算，並下載成 PDF、長圖或可再匯入的行程檔，卡片還能一鍵記到旅伴帳本或存成旅程紀錄；也內建多幣別的旅伴分帳功能（可平均、依金額或按份數分攤，記錄還款，每趟旅行各自一本帳，並能匯出 CSV）。也能用 CSV 一次匯入過去的航班紀錄，並以護照風格的國旗列顯示去過的國家／地區。可以安裝到手機主畫面，並能選擇以 Email 驗證碼登入，在自己的裝置間私有同步。介面支援繁體中文與英文。
+> 簡介：Journey Log 是一個「資料先存在自己裝置」的旅程紀錄 App，可記錄飛行、火車／高鐵與郵輪，自動產生統計、互動路線地圖與可分享的足跡報告圖片；出發前可以用「旅程規劃」一天天安排行程卡片（時間、地點、照片或插圖、預訂狀態，可以直接拖曳調整順序和日期）、待辦清單和預算，並下載成 PDF、長圖或可再匯入的行程檔（照片也一起帶走），卡片還能一鍵記到旅伴帳本或存成旅程紀錄；也內建多幣別的旅伴分帳功能（可平均、依金額或按份數分攤，記錄還款，每趟旅行各自一本帳，並能匯出 CSV）。也能用 CSV 一次匯入過去的航班紀錄，並以護照風格的國旗列顯示去過的國家／地區。可以安裝到手機主畫面，並能選擇以 Email 驗證碼登入，在自己的裝置間私有同步。介面支援繁體中文與英文。
 >
 > 為什麼做這個 App：我很喜歡旅行，以往都用 Flighty 記錄飛行足跡，但它只能記航班，在歐洲常搭的火車和高鐵都沒辦法記錄。和朋友出遊分帳時，用過的記帳 App 往往不直覺、不能自動換匯，或有很多廣告。所以我做了一個自己想用的工具：所有交通方式記在同一個地方、分帳清楚、沒有廣告，資料也留在自己手上。
 
@@ -69,7 +69,7 @@ journeys and a sample ledger you can try without signing in.*
   of being deleted), key information, and a budget that compares planned costs
   with what the linked ledger has recorded. Download it as a paginated A4 PDF
   or a phone-width image, with costs, notes, photos and private details each
-  optional, or as a plan file (JSON) that imports back as a new plan or over
+  optional, or as a plan file (JSON, photos included) that imports back as a new plan or over
   an existing one. Drag a card by its grip to reorder a day or move it to another
   day or the ideas list (long press on phones). From a card, record its cost
   in the linked ledger with the form already filled in, or save a flight or
