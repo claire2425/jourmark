@@ -24,7 +24,7 @@ private; see [Source code](#source-code).
 >
 > 介面支援繁體中文與英文。
 >
-> **為什麼做這個 App**：我很喜歡旅行，以往都用 Flighty 記錄飛行足跡，但它只能記航班，在歐洲常搭的火車和高鐵都沒辦法記錄。和朋友出遊分帳時，用過的記帳 App 往往不直覺、不能自動換匯，或有很多廣告。所以我做了一個自己想用的工具：所有交通方式記在同一個地方、行程和花費連在一起、沒有廣告，資料也留在自己手上。
+> **為什麼做這個 App**：我很喜歡旅行，以往都用 Flighty 記錄飛行足跡，但它只能記航班，在歐洲常搭的火車和高鐵都沒辦法記錄。和朋友出遊分帳時，用過的記帳 App 往往不直覺、不能自動換匯，或有很多廣告。所以我做了一個自己想用的工具：所有交通方式記在同一個地方、行程和花費連在一起、沒有廣告，資料也留在自己手上。2026 年 10 月碩士畢業後開始構思，11 月開始開發。
 
 ## Screenshots
 
@@ -219,8 +219,9 @@ Playwright · GitHub Actions · Vercel
 
 ## How this was built
 
-This is a personal portfolio project developed with AI coding agents (OpenAI
-Codex and Anthropic Claude). I defined the product and its requirements,
+This is a personal portfolio project: I began planning it in October 2026,
+after finishing my MSc, and started building it in November 2026 with AI coding
+agents (OpenAI Codex and Anthropic Claude). I defined the product and its requirements,
 directed the design decisions, wrote the rules the agents follow, and reviewed
 and tested the results on my own phone.
 
