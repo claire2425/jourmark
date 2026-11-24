@@ -256,6 +256,12 @@ to see the code, please contact me through
 [LinkedIn](https://www.linkedin.com/in/hsi-liang-claire/) and I will gladly
 give you read access or walk you through it.
 
+## Contact
+
+Feedback, questions or problems with the app: [jourmark.app@gmail.com](mailto:jourmark.app@gmail.com)
+（意見回饋或問題請寫信到這個信箱）. The same address is at the bottom of every
+page of the app.
+
 ## License
 
 © 2026 Claire Liang (梁曦). All rights reserved. See [`LICENSE`](LICENSE).
