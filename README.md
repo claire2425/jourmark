@@ -7,7 +7,7 @@
 > 從出發到散場，沿途風景與舞台記憶，都值得珍藏。
 > From the first departure to the final encore, every view and every show is worth keeping.
 
-**Live app:** https://jourmark.vercel.app (sample data included; no sign-in needed to try it)
+**Live app:** https://jourmark.com (sample data included; no sign-in needed to try it)
 
 Jourmark (逐拾, formerly Journey Log) is a local-first, installable web app (PWA) for everything around
 a trip: a log of every flight, train, bus, car trip, ferry and cruise; a
