@@ -1,15 +1,15 @@
 <p align="center"><img src="docs/icon.png" alt="Jourmark app icon" width="96" height="96"></p>
 
-# Jourmark｜逐拾 — travel log, trip planner, arts & events, and trip expense splitter
+# Jourmark｜逐徑 — travel log, trip planner, arts & events, and trip expense splitter
 
-> **逐心所向，拾途成印** · Follow your heart. Keep every mark.
+> **循心而行，沿途留印** · Follow your heart. Leave your mark.
 >
 > 從出發到散場，沿途風景與舞台記憶，都值得珍藏。
 > From the first departure to the final encore, every view and every show is worth keeping.
 
 **Live app:** https://jourmark.com (sample data included; no sign-in needed to try it)
 
-Jourmark (逐拾, formerly Journey Log) is a local-first, installable web app (PWA) for everything around
+Jourmark (逐徑, formerly Journey Log) is a local-first, installable web app (PWA) for everything around
 a trip: a log of every flight, train, bus, car trip, ferry and cruise; a
 day-by-day trip planner that works as a travel companion while you are away;
 a ticket wallet for the concerts, musicals and exhibitions people travel to
@@ -20,7 +20,7 @@ default, with optional end-to-end-encrypted sync and shared ledgers.
 This repository is the public overview of the project. The source code is kept
 private; see [Source code](#source-code).
 
-> **簡介**：Jourmark 逐拾（原名 Journey Log）是一個「資料先存在自己裝置」的旅行 App，裝在手機主畫面就像一般 App，離線也能用。五個分頁：
+> **簡介**：Jourmark 逐徑（原名 Journey Log）是一個「資料先存在自己裝置」的旅行 App，裝在手機主畫面就像一般 App，離線也能用。五個分頁：
 > - **旅行足跡**：記錄飛機、火車／高鐵、巴士、自駕、渡輪、郵輪；貼上電子機票或訂位信自動加入，轉機自動串成一趟；統計、國旗、旅行護照、路線地圖和可分享的足跡報告圖。
 > - **旅程規劃**：一天天安排行程卡片、待辦、預算；AI 行程建議、天氣預報、行程月曆；出發後打開就看到「接下來」要去哪；下載成 PDF、長圖、行事曆或行程檔，回來後還能做整趟旅行回顧。
 > - **旅伴記帳**：多幣別分帳（平均、指定金額、按份數），記錄還款，可以邀請旅伴共用同一本帳（端對端加密）；喜愛清單可以拍商品包裝，AI 辨識原文並翻譯。
